@@ -1,0 +1,36 @@
+@media (min-width: 300px) and (max-width:989px){
+        /*RESET*/
+
+   
+    h1{font-size: 25px; margin: 0 5px;}
+
+    /*APP GRID*/
+
+    body{
+        margin: 0;
+    }
+
+    #date{
+        margin: 0 5px;
+        display: flex;
+        justify-content: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+        background-color:#97FFFF;
+    }
+
+    #hours{
+        margin: 0 5px;
+        display: flex;
+        justify-content: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 30px;
+        background-color:#97FFFF;
+    }
+
+    footer{
+        font-size: 12px;
+    }
+
+}
+
